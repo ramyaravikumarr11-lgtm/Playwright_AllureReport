@@ -8,5 +8,5 @@ test('SauceDemo', async ({ loginPage}) => {
     user.password
     
   );
-console.log("Report");
+console.log("Report22");
 })
